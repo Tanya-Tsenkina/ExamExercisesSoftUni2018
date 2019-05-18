@@ -1,0 +1,7 @@
+E:\SoftUni\OpenCourse\FundOfProgramingC#03.2018\27.05.2018 EXAM\Exam\WorldOfCodeCraft\bin\Debug\WorldOfCodeCraft.exe.config
+E:\SoftUni\OpenCourse\FundOfProgramingC#03.2018\27.05.2018 EXAM\Exam\WorldOfCodeCraft\bin\Debug\WorldOfCodeCraft.exe
+E:\SoftUni\OpenCourse\FundOfProgramingC#03.2018\27.05.2018 EXAM\Exam\WorldOfCodeCraft\bin\Debug\WorldOfCodeCraft.pdb
+E:\SoftUni\OpenCourse\FundOfProgramingC#03.2018\27.05.2018 EXAM\Exam\WorldOfCodeCraft\obj\Debug\WorldOfCodeCraft.csprojAssemblyReference.cache
+E:\SoftUni\OpenCourse\FundOfProgramingC#03.2018\27.05.2018 EXAM\Exam\WorldOfCodeCraft\obj\Debug\WorldOfCodeCraft.csproj.CoreCompileInputs.cache
+E:\SoftUni\OpenCourse\FundOfProgramingC#03.2018\27.05.2018 EXAM\Exam\WorldOfCodeCraft\obj\Debug\WorldOfCodeCraft.exe
+E:\SoftUni\OpenCourse\FundOfProgramingC#03.2018\27.05.2018 EXAM\Exam\WorldOfCodeCraft\obj\Debug\WorldOfCodeCraft.pdb

@@ -1,0 +1,7 @@
+E:\SoftUni\OpenCourse\FundOfProgramingC#03.2018\27.05.2018 EXAM\Exam\LootMadness\bin\Debug\LootMadness.exe.config
+E:\SoftUni\OpenCourse\FundOfProgramingC#03.2018\27.05.2018 EXAM\Exam\LootMadness\bin\Debug\LootMadness.exe
+E:\SoftUni\OpenCourse\FundOfProgramingC#03.2018\27.05.2018 EXAM\Exam\LootMadness\bin\Debug\LootMadness.pdb
+E:\SoftUni\OpenCourse\FundOfProgramingC#03.2018\27.05.2018 EXAM\Exam\LootMadness\obj\Debug\LootMadness.csprojAssemblyReference.cache
+E:\SoftUni\OpenCourse\FundOfProgramingC#03.2018\27.05.2018 EXAM\Exam\LootMadness\obj\Debug\LootMadness.csproj.CoreCompileInputs.cache
+E:\SoftUni\OpenCourse\FundOfProgramingC#03.2018\27.05.2018 EXAM\Exam\LootMadness\obj\Debug\LootMadness.exe
+E:\SoftUni\OpenCourse\FundOfProgramingC#03.2018\27.05.2018 EXAM\Exam\LootMadness\obj\Debug\LootMadness.pdb

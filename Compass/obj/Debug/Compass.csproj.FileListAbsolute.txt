@@ -1,0 +1,7 @@
+E:\SoftUni\OpenCourse\FundOfProgramingC#03.2018\27.05.2018 EXAM\Exam\Compass\bin\Debug\Compass.exe.config
+E:\SoftUni\OpenCourse\FundOfProgramingC#03.2018\27.05.2018 EXAM\Exam\Compass\bin\Debug\Compass.exe
+E:\SoftUni\OpenCourse\FundOfProgramingC#03.2018\27.05.2018 EXAM\Exam\Compass\bin\Debug\Compass.pdb
+E:\SoftUni\OpenCourse\FundOfProgramingC#03.2018\27.05.2018 EXAM\Exam\Compass\obj\Debug\Compass.csprojAssemblyReference.cache
+E:\SoftUni\OpenCourse\FundOfProgramingC#03.2018\27.05.2018 EXAM\Exam\Compass\obj\Debug\Compass.csproj.CoreCompileInputs.cache
+E:\SoftUni\OpenCourse\FundOfProgramingC#03.2018\27.05.2018 EXAM\Exam\Compass\obj\Debug\Compass.exe
+E:\SoftUni\OpenCourse\FundOfProgramingC#03.2018\27.05.2018 EXAM\Exam\Compass\obj\Debug\Compass.pdb

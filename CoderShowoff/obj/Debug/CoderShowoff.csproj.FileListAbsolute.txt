@@ -1,0 +1,7 @@
+E:\SoftUni\OpenCourse\FundOfProgramingC#03.2018\27.05.2018 EXAM\Exam\CoderShowoff\obj\Debug\CoderShowoff.csprojAssemblyReference.cache
+E:\SoftUni\OpenCourse\FundOfProgramingC#03.2018\27.05.2018 EXAM\Exam\CoderShowoff\obj\Debug\CoderShowoff.csproj.CoreCompileInputs.cache
+E:\SoftUni\OpenCourse\FundOfProgramingC#03.2018\27.05.2018 EXAM\Exam\CoderShowoff\bin\Debug\CoderShowoff.exe.config
+E:\SoftUni\OpenCourse\FundOfProgramingC#03.2018\27.05.2018 EXAM\Exam\CoderShowoff\bin\Debug\CoderShowoff.exe
+E:\SoftUni\OpenCourse\FundOfProgramingC#03.2018\27.05.2018 EXAM\Exam\CoderShowoff\bin\Debug\CoderShowoff.pdb
+E:\SoftUni\OpenCourse\FundOfProgramingC#03.2018\27.05.2018 EXAM\Exam\CoderShowoff\obj\Debug\CoderShowoff.exe
+E:\SoftUni\OpenCourse\FundOfProgramingC#03.2018\27.05.2018 EXAM\Exam\CoderShowoff\obj\Debug\CoderShowoff.pdb
